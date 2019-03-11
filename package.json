@@ -1,0 +1,24 @@
+{
+  "name": "readfree-auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rywaroy/readfree-auto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rywaroy/readfree-auto/issues"
+  },
+  "homepage": "https://github.com/rywaroy/readfree-auto#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "node-schedule": "^1.3.2"
+  }
+}
